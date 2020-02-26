@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string name="image_desc">image</string>
+    <string name="image_id">image_desc</string>
+    <string name="specs">Specs</string>
+    <string name="pic">Pic</string>
+    <string name="site">Site</string>
+        <string-array name="names">
+        <item>Apple Iphone XR</item>
+        <item>Google Pixel 2</item>
+        <item>Galaxy Note 9</item>
+        <item>Xiomi RedMi Note 5</item>
+        <item>LG V35 Thinq Phone</item>
+        <item>OnePlus 6T</item>
+        <item>Moto Gen G7</item>
+        <item>Apple Iphone 8</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>6.51 inch display, 100$</item>
+        <item>6.52 inch display, 200$</item>
+        <item>6.53 inch display, 300$</item>
+        <item>6.54 inch display, 400$</item>
+        <item>6.55 inch display, 500$</item>
+        <item>6.56 inch display, 600$</item>
+        <item>6.57 inch display, 700$</item>
+        <item>6.58 inch display, 800$</item>
+    </string-array>
+
+    <string-array name="websites">
+        <item>https://www.apple.com/iphone-xr/</item>
+        <item> https://store.google.com/in/product/pixel_2</item>
+        <item>https://www.samsung.com/us/mobile/galaxy-note9/</item>
+        <item> https://www.mi.com/global/redmi-note-5/</item>
+        <item>https://www.lg.com/us/v35-thinq-phones</item>
+        <item>https://www.oneplus.com/6t</item>
+        <item> https://www.motorola.com/us/products/moto-g-gen-7</item>
+        <item>https://www.apple.com/shop/buy-iphone/iphone-8</item>
+    </string-array>
+
+    <string-array name="iphone_xr">
+        <item>12 GB</item>
+        <item>6.5" Display</item>
+        <item>32 GB</item>
+        <item>True</item>
+        <item>iphone_xr</item>
+    </string-array>
+
+    <string-array name="pixel_2">
+        <item>4 GB</item>
+        <item>5" Display</item>
+        <item>64 GB</item>
+        <item>False</item>
+        <item>pixel_2</item>
+    </string-array>
+    <string-array name="galaxy_note9">
+        <item>6 GB</item>
+        <item>6" Display</item>
+        <item>32 GB</item>
+        <item>True</item>
+        <item>galaxy_note9</item>
+    </string-array>
+
+    <string-array name="redminote5">
+        <item>8 GB</item>
+        <item>6.2" Display</item>
+        <item>64 GB</item>
+        <item>False</item>
+        <item>redminote5</item>
+    </string-array>
+    <string-array name="v35thinqphone">
+    <item>6 GB</item>
+    <item>6" Display</item>
+    <item>32 GB</item>
+    <item>True</item>
+    <item>v35thinqphone</item>
+</string-array>
+
+    <string-array name="Oneplus6t">
+        <item>4 GB</item>
+        <item>5" Display</item>
+        <item>64 GB</item>
+        <item>False</item>
+        <item>Oneplus6t</item>
+    </string-array>
+    <string-array name="MotoG7">
+        <item>8 GB</item>
+        <item>5.5" Display</item>
+        <item>32 GB</item>
+        <item>True</item>
+        <item>MotoG7</item>
+    </string-array>
+
+    <string-array name="iphone8">
+        <item>4 GB</item>
+        <item>6.5" Display</item>
+        <item>64 GB</item>
+        <item>False</item>
+        <item>Xiomi</item>
+    </string-array>
+</resources>
